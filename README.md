@@ -1,4 +1,10 @@
-### Hi there 👋
+--### Всем привет! Меня зовут Аня и я - начинающий аналитик 👋
+
+<div id="header" align="center">
+  <h1>Всем привет! </h1>
+  <h3>Меня зовут Аня и я - начинающий аналитик</h3>
+</div>
+
 
 <!--
 **aniaprokosheva/aniaprokosheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
