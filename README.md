@@ -9,7 +9,9 @@
 <a href="https://www.instagram.com/ania_ivy/">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </a>
-
+<a href="https://public.tableau.com/app/profile/ania.prokosheva">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau"/>
+</a>
 
 <!--
 **aniaprokosheva/aniaprokosheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
