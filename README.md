@@ -1,4 +1,4 @@
-## Привет! Меня зовут Аня и я - начинающий аналитик
+### Привет! Меня зовут Аня и я - начинающий аналитик
 
 - Специализиюсь на data & geodata analysis
 - Языки: Python, SQL
@@ -6,7 +6,7 @@
 - Библиотеки: seaborn, matplotlib, plotly, scipy, math, numpy, folium, sqlalchemy
 - Коротко обо мне: 🐢🦮🌱🪷🌙🥗🍕🍣☕️🤸🏽‍♀️🧘🏽‍♀️🏔️🏞️
 
-## Меня можно найти через:
+### Меня можно найти через:
 <a href="https://www.instagram.com/ania_ivy/">
   <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
