@@ -4,13 +4,13 @@
 </div>
 
 <a href="https://www.instagram.com/ania_ivy/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://www.instagram.com/ania_ivy/">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </a>
 <a href="https://public.tableau.com/app/profile/ania.prokosheva">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau"/>
+  <img src="https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau"/>
 </a>
 
 <!--
