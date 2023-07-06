@@ -1,15 +1,10 @@
 ## Привет! Меня зовут Аня и я - начинающий аналитик
 
-Языки: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> &nbsp
-
-            
-                    
-          
-<div id="header" align="center">
-  <h1>Всем привет! </h1>
-  <h3>Меня зовут Аня и я - начинающий аналитик</h3>
-</div>
+- Специализиюсь на data & geodata analysis
+- Языки: Python, SQL
+- Инструменты: Jupyter Notebook, QGIS, Tableau
+- Библиотеки: seaborn, matplotlib, plotly, scipy, math, numpy, folium, sqlalchemy
+- Коротко обо мне: 🐢🦮🌱🪷🌙🥗🍕🍣☕️🤸🏽‍♀️🧘🏽‍♀️🏔️🏞️
 
 ## Меня можно найти через:
 <a href="https://www.instagram.com/ania_ivy/">
@@ -21,18 +16,3 @@
 <a href="https://public.tableau.com/app/profile/ania.prokosheva">
   <img src="https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=Tableau&logoColor=white" alt="tableau"/>
 </a>
-
-<!--
-**aniaprokosheva/aniaprokosheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
