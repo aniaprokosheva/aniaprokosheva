@@ -1,8 +1,10 @@
 ## Привет! Меня зовут Аня и я - начинающий аналитик
 
 Языки: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="python" width="20", height="20" />&nbsp
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp
+
+            
+                    
           
 <div id="header" align="center">
   <h1>Всем привет! </h1>
