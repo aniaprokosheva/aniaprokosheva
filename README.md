@@ -1,8 +1,14 @@
+## Привет! Меня зовут Аня и я - начинающий аналитик
+
+Языки: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="python" width="20", height="20"/>&nbsp
+          
+          
 <div id="header" align="center">
   <h1>Всем привет! </h1>
   <h3>Меня зовут Аня и я - начинающий аналитик</h3>
 </div>
 
+## Меня можно найти через:
 <a href="https://www.instagram.com/ania_ivy/">
   <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
