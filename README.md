@@ -1,10 +1,11 @@
 ### Привет! Меня зовут Аня и я - начинающий аналитик
 
 - Специализиюсь на data & geodata analysis
-- Языки: Python, SQL
+- Языки: Python, SQL и English B2;)
 - Инструменты: Jupyter Notebook, QGIS, Tableau, Microsoft Excel
 - Библиотеки: seaborn, matplotlib, plotly, scipy, math, numpy, folium, sqlalchemy
 - Коротко обо мне: 🐢🦮🌱🪷🌙🥗🍕🍣☕️🤸🏽‍♀️🧘🏽‍♀️🏔️🏞️
+- и мое [cv](https://drive.google.com/file/d/1Z1kcXs1Y_VJgYhf89g5LuQF873dchFdV/view?usp=sharing)
 
 ### Меня можно найти через:
 <a href="https://www.instagram.com/ania_ivy/">
