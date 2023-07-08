@@ -2,7 +2,7 @@
 
 - Специализиюсь на data & geodata analysis
 - Языки: Python, SQL и English B2;)
-- Инструменты: Jupyter Notebook, QGIS, Tableau, Microsoft Excel
+- Инструменты: Jupyter Notebook, Google Colab, QGIS, Tableau, Microsoft Excel
 - Библиотеки: seaborn, plotly, scipy, numpy, folium, sqlalchemy
 - Коротко обо мне: 🐢🦮🌱🪷🌙🥗🍕🍣☕️🤸🏽‍♀️🧘🏽‍♀️🏔️🏞️
 
